@@ -1,8 +1,8 @@
-# Annotations e Reflection — EBAC Full Stack Java
+# Annotations e Reflections — EBAC Full Stack Java
 
 ## Descrição
 
-Este projeto foi desenvolvido como parte da avaliação do capítulo sobre **Annotations e Exceptions** do curso Formação Desenvolvedor Full Stack Java da EBAC. O objetivo é demonstrar a criação e uso de uma annotation customizada `@Table`, que mapeia uma classe Java a uma tabela fictícia de banco de dados, e a utilização de reflection para acessar essa informação em tempo de execução.
+Este projeto foi desenvolvido como parte da avaliação dos capítulos sobre **Annotations e Reflections** do curso Formação Desenvolvedor Full Stack Java da EBAC. O objetivo é demonstrar a criação e uso de uma annotation customizada `@Table`, que mapeia uma classe Java a uma tabela fictícia de banco de dados, e a utilização de reflection para acessar essa informação em tempo de execução.
 
 ## Funcionalidades
 
